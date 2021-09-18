@@ -1,0 +1,5 @@
+Deploy the project
+
+1. Download the file as .py file
+2. Open anaconda command prompt
+3. streamlit run Downloads\<name of the file.py>
